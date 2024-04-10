@@ -21,4 +21,4 @@ The tool can be executed at the command line.
 python main.py
 ```
 
-It can take an argument `--verbose (-v)` to provide the final path of the SQLite database (pages.db).
+It can take an argument `--verbose (-v)` in order to output the full path of the SQLite database (pages.db).
